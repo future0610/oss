@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# homework
+# homework
 echo "----------"
 echo "name :"
 echo "박노헌"
