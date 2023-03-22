@@ -19,6 +19,8 @@
 * add : 파일을 추적 대상으로 포함시킬 때, 또는 커밋 대상으로 포함시킬 때 사용
     * 예) git add <file name>
 * commit
+* git reset HEAD <file> : stage된 파일을 unstaged로 변경
+* git checkout -- <file> : stage되어 있는 파일을 수정한 후 수정 전으로 되돌림 
 * branch
 * merge
 * status
