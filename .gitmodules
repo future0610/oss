@@ -1,0 +1,3 @@
+[submodule "w9/myWebPage/themes/hugo-developer-portfolio"]
+	path = w9/myWebPage/themes/hugo-developer-portfolio
+	url = https://github.com/samrobbins85/hugo-developer-portfolio
